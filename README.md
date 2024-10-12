@@ -27,3 +27,8 @@ Now all you have to do is extract the files into the root game folder as seen be
 
 
 After all that all you have to do is load the map listed in the download of the map file.
+
+
+
+
+<sub><sup> These mods are in no way connected with falling saints LTD <sub><sup>

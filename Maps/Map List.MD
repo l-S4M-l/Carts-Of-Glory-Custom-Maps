@@ -7,3 +7,7 @@
 [Skate 3 Industrial Map](https://www.mediafire.com/file/h8rtyxmrw6u821x/Industrial.zip/file) - monolith
 
 <img src="https://images2.imgbox.com/52/d6/uFC02pTY_o.png" width="400px">
+
+[Skate 3 Downtown Map](https://www.mediafire.com/file/8zaddakz3nxu4gj/downtown.zip/file) - monolith
+
+<img src="https://images2.imgbox.com/ae/0e/hEymPP04_o.png" width="400px">
